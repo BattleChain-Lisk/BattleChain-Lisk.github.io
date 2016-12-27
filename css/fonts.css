@@ -1,0 +1,49 @@
+@font-face{
+    font-family: "josefin-sans";
+    src: url('../fonts/josefin-sans/JosefinSans-Regular.ttf');
+}
+
+@font-face {
+    font-family: "roboto-regular";
+    src: url('../fonts/roboto/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: "roboto-thin";
+    src: url('../fonts/roboto/Roboto-Thin.ttf');
+}
+
+
+@font-face {
+    font-family: "open-sans";
+    src: url('../fonts/Open_Sans/OpenSans-Light.ttf');
+}
+
+
+
+/** Font color */
+.font-light-grey {color: #9e9e9e; }
+.font-white { color: white; }
+.font-gold { color: #EACC00; }
+.font-dark-blue{ color: #004C82; }
+.font-clear-red { color: #f44336; }
+.font-clear-green { color: #7cb342; }
+.font-clear-blue-transp{ background-color: rgba(0,76,130, .7) !important; }
+
+
+.font-dark-blue-2 { background-color: #001F35; }
+
+
+/** Icons */
+.icon-big { font-size: 2.5rem !important;}
+.icon-med { font-size: 2rem !important;}
+.icon-small { font-size: 1.5rem !important;}
+
+/** Text align */
+.text-center { text-align: center; }
+
+/** Defined font sizes */
+.font-big { font-size: 24px}
+.font-medium { font-size: 1.25rem; }
+.font-small { font-size: 1.1rem; }
+.font-bold { font-weight: bold; }
